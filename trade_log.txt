@@ -1,0 +1,371 @@
+2026-02-10 19:44:38 - ⏳ Delay 15 detik...
+2026-02-10 19:44:54 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:44:54 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:44:54 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:44:54 - ⏳ Delay 8 detik...
+2026-02-10 19:45:02 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:45:02 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:45:02 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:45:02 - ⏳ Delay 12 detik...
+2026-02-10 19:45:14 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:45:14 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:45:14 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:45:14 - ⏳ Delay 5 detik...
+2026-02-10 19:45:20 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:45:20 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:45:20 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:45:20 - ⏳ Delay 6 detik...
+2026-02-10 19:45:26 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:45:26 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:45:26 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:45:26 - ⏳ Delay 5 detik...
+2026-02-10 19:45:31 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:45:31 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:45:31 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:45:31 - ⏳ Delay 7 detik...
+2026-02-10 19:45:39 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:45:39 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:45:39 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:45:39 - ⏳ Delay 12 detik...
+2026-02-10 19:45:51 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:45:51 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:45:51 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:45:51 - ⏳ Delay 5 detik...
+2026-02-10 19:45:57 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:45:57 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:45:57 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:45:57 - ⏳ Delay 11 detik...
+2026-02-10 19:46:08 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:46:08 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:46:08 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:46:08 - ⏳ Delay 5 detik...
+2026-02-10 19:46:14 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:46:14 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:46:14 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:46:14 - ⏳ Delay 11 detik...
+2026-02-10 19:46:25 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:46:25 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:46:25 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:46:25 - ⏳ Delay 15 detik...
+2026-02-10 19:46:40 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:46:40 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:46:40 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:46:40 - ⏳ Delay 7 detik...
+2026-02-10 19:46:48 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:46:48 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:46:48 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:46:48 - ⏳ Delay 10 detik...
+2026-02-10 19:46:58 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:46:58 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:46:58 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:46:58 - ⏳ Delay 8 detik...
+2026-02-10 19:47:06 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:47:06 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:47:06 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:47:06 - ⏳ Delay 14 detik...
+2026-02-10 19:47:21 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:47:21 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:47:21 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:47:21 - ⏳ Delay 7 detik...
+2026-02-10 19:47:28 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:47:28 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:47:28 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:47:28 - ⏳ Delay 12 detik...
+2026-02-10 19:47:40 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:47:40 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:47:40 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:47:40 - ⏳ Delay 9 detik...
+2026-02-10 19:47:50 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:47:50 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:47:50 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:47:50 - ⏳ Delay 7 detik...
+2026-02-10 19:47:57 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:47:57 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:47:57 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:47:57 - ⏳ Delay 5 detik...
+2026-02-10 19:48:02 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:48:02 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:48:02 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:48:02 - ⏳ Delay 6 detik...
+2026-02-10 19:48:08 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:48:08 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:48:08 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:48:08 - ⏳ Delay 13 detik...
+2026-02-10 19:48:22 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:48:22 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:48:22 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:48:22 - ⏳ Delay 14 detik...
+2026-02-10 19:48:36 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:48:36 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:48:36 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:48:36 - ⏳ Delay 14 detik...
+2026-02-10 19:48:51 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:48:51 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:48:51 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:48:51 - ⏳ Delay 11 detik...
+2026-02-10 19:49:02 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:49:02 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:49:02 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:49:02 - ⏳ Delay 9 detik...
+2026-02-10 19:49:11 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:49:11 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:49:11 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:49:11 - ⏳ Delay 8 detik...
+2026-02-10 19:49:20 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:49:20 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:49:20 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:49:20 - ⏳ Delay 10 detik...
+2026-02-10 19:49:30 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:49:30 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:49:30 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:49:30 - ⏳ Delay 5 detik...
+2026-02-10 19:49:36 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:49:36 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:49:36 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:49:36 - ⏳ Delay 13 detik...
+2026-02-10 19:49:49 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:49:49 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:49:49 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:49:49 - ⏳ Delay 12 detik...
+2026-02-10 19:50:02 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:50:02 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:50:02 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:50:02 - ⏳ Delay 6 detik...
+2026-02-10 19:50:08 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:50:08 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:50:08 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:50:08 - ⏳ Delay 10 detik...
+2026-02-10 19:50:18 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:50:18 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:50:18 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:50:18 - ⏳ Delay 5 detik...
+2026-02-10 19:50:24 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:50:24 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:50:24 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:50:24 - ⏳ Delay 14 detik...
+2026-02-10 19:50:38 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:50:38 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:50:38 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:50:38 - ⏳ Delay 13 detik...
+2026-02-10 19:50:51 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:50:51 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:50:51 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:50:51 - ⏳ Delay 14 detik...
+2026-02-10 19:51:06 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:51:06 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:51:06 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:51:06 - ⏳ Delay 14 detik...
+2026-02-10 19:51:20 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:51:20 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:51:20 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:51:20 - ⏳ Delay 11 detik...
+2026-02-10 19:51:31 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:51:31 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:51:31 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:51:31 - ⏳ Delay 12 detik...
+2026-02-10 19:51:43 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:51:43 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:51:43 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:51:43 - ⏳ Delay 14 detik...
+2026-02-10 19:51:58 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:51:58 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:51:58 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:51:58 - ⏳ Delay 10 detik...
+2026-02-10 19:52:08 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:52:08 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:52:08 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:52:08 - ⏳ Delay 9 detik...
+2026-02-10 19:52:17 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:52:17 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:52:17 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:52:17 - ⏳ Delay 15 detik...
+2026-02-10 19:52:33 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:52:33 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:52:33 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:52:33 - ⏳ Delay 14 detik...
+2026-02-10 19:52:47 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:52:47 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:52:47 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:52:47 - ⏳ Delay 5 detik...
+2026-02-10 19:52:52 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:52:52 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:52:52 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:52:52 - ⏳ Delay 15 detik...
+2026-02-10 19:53:07 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:53:07 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:53:07 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:53:07 - ⏳ Delay 15 detik...
+2026-02-10 19:53:23 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:53:23 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:53:23 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:53:23 - ⏳ Delay 11 detik...
+2026-02-10 19:53:34 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:53:34 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:53:34 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:53:34 - ⏳ Delay 6 detik...
+2026-02-10 19:53:41 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:53:41 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:53:41 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:53:41 - ⏳ Delay 5 detik...
+2026-02-10 19:53:46 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:53:46 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:53:46 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:53:46 - ⏳ Delay 11 detik...
+2026-02-10 19:53:57 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:53:57 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:53:57 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:53:57 - ⏳ Delay 9 detik...
+2026-02-10 19:54:06 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:54:06 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:54:06 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:54:06 - ⏳ Delay 12 detik...
+2026-02-10 19:54:19 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:54:19 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:54:19 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:54:19 - ⏳ Delay 7 detik...
+2026-02-10 19:54:26 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:54:26 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:54:26 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:54:26 - ⏳ Delay 5 detik...
+2026-02-10 19:54:31 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:54:31 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:54:31 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:54:31 - ⏳ Delay 10 detik...
+2026-02-10 19:54:41 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:54:41 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:54:41 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:54:41 - ⏳ Delay 14 detik...
+2026-02-10 19:54:56 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:54:56 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:54:56 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:54:56 - ⏳ Delay 7 detik...
+2026-02-10 19:55:04 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:55:04 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:55:04 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:55:04 - ⏳ Delay 15 detik...
+2026-02-10 19:55:19 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:55:19 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:55:19 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:55:19 - ⏳ Delay 12 detik...
+2026-02-10 19:55:31 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:55:31 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:55:31 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:55:31 - ⏳ Delay 14 detik...
+2026-02-10 19:55:46 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:55:46 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:55:46 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:55:46 - ⏳ Delay 15 detik...
+2026-02-10 19:56:01 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:56:01 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:56:01 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:56:01 - ⏳ Delay 12 detik...
+2026-02-10 19:56:13 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:56:13 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:56:13 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:56:13 - ⏳ Delay 14 detik...
+2026-02-10 19:56:28 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:56:28 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:56:28 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:56:28 - ⏳ Delay 11 detik...
+2026-02-10 19:56:39 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:56:39 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:56:39 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:56:39 - ⏳ Delay 13 detik...
+2026-02-10 19:56:53 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:56:53 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:56:53 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:56:53 - ⏳ Delay 12 detik...
+2026-02-10 19:57:05 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:57:05 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:57:05 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:57:05 - ⏳ Delay 13 detik...
+2026-02-10 19:57:19 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:57:19 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:57:19 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:57:19 - ⏳ Delay 13 detik...
+2026-02-10 19:57:32 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:57:32 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:57:32 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:57:32 - ⏳ Delay 6 detik...
+2026-02-10 19:57:39 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:57:39 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:57:39 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:57:39 - ⏳ Delay 13 detik...
+2026-02-10 19:57:53 - ❌ Failed fetch perps balance: 404 {"error":{"code":"NotFound","message":"Not Found"}}
+
+2026-02-10 19:57:53 - ⚠️ Skipping order placement due to zero perps balance.
+2026-02-10 19:57:53 - ⚠️ Order failed or skipped, retrying next loop
+2026-02-10 19:57:53 - ⏳ Delay 14 detik...
