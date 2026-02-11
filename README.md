@@ -1,9 +1,3 @@
-Gas. Ini gue bikinin **README.md** yang clean, teknis, dan keliatan profesional buat repo GitHub lo 🚀
-
-Lo tinggal copy–paste aja.
-
----
-
 # 🤖 Rise Testnet Auto Transaction Bot
 
 Automated blockchain transaction bot built with Python & Web3.
